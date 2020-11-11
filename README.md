@@ -1,6 +1,6 @@
 <h2>Layout do Instagram<h2>
   
-<h3>Resultado da Aula do curso [Digital Innovation One](https://digitalinnovation.one/) Utilizando somente CSS puro para copiar a página incial do Instagram. </h4>
+### Resultado da Aula do curso [Digital Innovation One](https://digitalinnovation.one/) Utilizando somente CSS puro para copiar a página do Instagram. </h4>
 
 ### Tecnologias:
 
